@@ -32,7 +32,7 @@ After deployment, the website is accessible via the CloudFront domain:
 Output Values
 The following outputs are provided:
 
-bucket_name: Name of the S3 bucket
+bucket_name: Name of the S3 bucket <br>
 cloudfront_domain_name: Domain name of the CloudFront distribution
 
 ### Cleanup
